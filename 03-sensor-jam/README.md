@@ -1,3 +1,7 @@
-# My Project
+# dm2008-Louise-Wongleyi-AY2526-S1
+DM2008 SENSOR JAM
 
-Write an introduction or document your project here. Be sure to _rename the main folder_ when you duplicate this for use in your own projects!
+# Sensor Jam documentation
+- Using ultrasonic sensor to read distance value
+- Learned how to use console readings to adjust code for smoother results
+- Added dog.png and mapped to ultrasonice sensor reading inputs
